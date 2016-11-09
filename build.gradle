@@ -32,7 +32,7 @@ dependencies {
     /**
      * SoapUI dependencies
      */
-    compile ('com.smartbear.soapui:soapui:5.0.1') {
+    compile ('com.smartbear.soapui:soapui:5.2.1') {
         exclude module: 'cajo'
         exclude group: 'org.codehaus.groovy'
     }
